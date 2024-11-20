@@ -1,0 +1,20 @@
+[
+  {
+    "username": "testuser",
+    "password": "$2b$12$Ofh7piIYYJzJLxT/8VCPBuotHq4Rw77TYyTe4MJTFw5LJVU.M764q"
+  },
+  {
+    "username": "testuser2",
+    "password": "$2b$12$HHp.A55KixWJUUpgW9WA/eLG/l7Ea/gCYHf6YKpOq5h2NzEZqaUMC"
+  },
+  {
+    "username": "testuser3",
+    "password": "$2b$12$A4Tes8CqQmc5ORMRDWFrPOoyWxQXAkg2ddko9eVxVNO9se3K/35pK",
+    "basic_info": {
+      "age": 25,
+      "gender": "male",
+      "medicalHistory": "None",
+      "familyHistory": "Diabetes"
+    }
+  }
+]
